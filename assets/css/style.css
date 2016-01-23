@@ -1366,10 +1366,11 @@ Icon for all respective meta
 
 
 /* === Contact Section === */
-.contact-section  {
-    justify-content: center;
-   align-items: center;
+.row{
+    margin: 0 auto;
   
+}
+.contact-section  {
 }
 
 .contact-section strong {
@@ -1401,19 +1402,6 @@ Icon for all respective meta
     font-weight: 400;
     margin-bottom: 45px
 }
-
-
-/*MAP*/
-.location-map {
-    padding: 4px;
-    border: 1px solid #eee;
-    border-bottom: 3px double #eee;
-}
-.map-canvas {
-    height: 350px;
-}
-
-
 
 
 /* === Footer Wrapper === */
