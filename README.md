@@ -1,2 +1,0 @@
-# waqaslatif.com
-Personal Website
