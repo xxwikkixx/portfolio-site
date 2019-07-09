@@ -7892,7 +7892,6 @@ header {
     .wrap .about-desc {
       position: relative; } }
   .wrap .about-desc .bold-text {
-    position: absolute;
     top: -80px;
     left: -50px;
     right: 0;
